@@ -24,7 +24,7 @@ App đọc lịch sử hand của chính bạn trong tab PokerCraft đang đăng
 - **Safari → Cài đặt… → Nâng cao** → tick “Hiển thị tính năng cho nhà phát triển web”; rồi menu **Phát triển** → tick “Cho phép JavaScript từ Apple Events”.
 - Khi macOS hỏi, cho phép PokerMirror **điều khiển Safari** và cấp quyền **Trợ năng** (Accessibility) để app bấm phím tải file thay bạn.
 
-Không muốn cấp quyền? Bạn có thể tự tải file ZIP lịch sử hand từ PokerCraft rồi nhập vào app (mục **Nhập file ZIP**).
+Không muốn app tự tải? Bạn có thể tự tải file ZIP lịch sử hand từ PokerCraft rồi nhập vào app (mục **Nhập file ZIP đã tải**). App vẫn mở một hand của chính bạn trên PokerCraft (Safari đang đăng nhập) để xác nhận file là của bạn.
 
 ## Cập nhật
 
@@ -35,7 +35,7 @@ Trong app: **Cài đặt → Kiểm tra cập nhật → Cài và khởi động
 - **Free**: 1 tài khoản poker, tối đa 10.000 hand, đủ các thống kê chính, danh sách hand và replayer, HUD đối thủ.
 - **Premium**: so sánh với bảng range, tìm leak chi tiết, hồ sơ đối thủ chi tiết, nhiều tài khoản và không giới hạn hand.
 
-Để nhận key Premium: mở **Cài đặt → License**, chép **mã máy** (dạng `ABCD-EFGH-IJKL`) và gửi cho người phát hành. Dán key nhận được vào cùng chỗ đó. Hết hạn key thì app trở về Free, dữ liệu không mất.
+Để nhận key Premium: mở **Cài đặt → Bản quyền**, chép **mã máy** (dạng `ABCD-EFGH-IJKL`) và gửi cho người phát hành. Dán key nhận được vào cùng chỗ đó. Hết hạn key thì app trở về Free, dữ liệu không mất.
 
 ## Dữ liệu và quyền riêng tư
 
