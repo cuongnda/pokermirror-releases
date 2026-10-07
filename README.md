@@ -19,7 +19,12 @@ Vào **[Releases → bản mới nhất](https://github.com/cuongnda/pokermirror
 
 ## Cho app đọc lịch sử hand trong Safari
 
-App đọc lịch sử hand của chính bạn trong tab PokerCraft đang đăng nhập trên Safari. App sẽ hướng dẫn từng bước khi cần:
+App đọc lịch sử hand của chính bạn trong tab PokerCraft đang đăng nhập trên Safari. PokerMirror không tự mở PokerCraft:
+
+- Mở PokerCraft **từ app NATURAL8 hoặc GGPoker** như mọi khi. Trang phải mở **trong Safari**; nếu nó mở trong trình duyệt khác, chép link sang Safari.
+- Quay lại PokerMirror bấm **Đã mở PokerCraft — kiểm tra**. App tự nhận nick của bạn.
+
+Lần đầu, app sẽ hướng dẫn bật các thiết lập sau:
 
 - **Safari → Cài đặt… → Nâng cao** → tick “Hiển thị tính năng cho nhà phát triển web”; rồi menu **Phát triển** → tick “Cho phép JavaScript từ Apple Events”.
 - Khi macOS hỏi, cho phép PokerMirror **điều khiển Safari** và cấp quyền **Trợ năng** (Accessibility) để app bấm phím tải file thay bạn.
