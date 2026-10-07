@@ -31,6 +31,18 @@ Lần đầu, app sẽ hướng dẫn bật các thiết lập sau:
 
 Không muốn app tự tải? Bạn có thể tự tải file ZIP lịch sử hand từ PokerCraft rồi nhập vào app (mục **Nhập file ZIP đã tải**). App vẫn mở một hand của chính bạn trên PokerCraft (Safari đang đăng nhập) để xác nhận file là của bạn.
 
+## Dùng Chrome thay cho Safari (thử nghiệm)
+
+Nếu bạn mở PokerCraft bằng Chrome, PokerMirror thu thập được qua extension **PokerMirror Connector**:
+
+1. Trong PokerMirror: **Cài đặt → Trình duyệt thu thập → Chrome** (hoặc để **Tự động** nếu Chrome là trình duyệt mặc định).
+2. Màn hình **Thu thập** hiện hướng dẫn: mở `chrome://extensions`, bật **Developer mode**, bấm **Load unpacked** và chọn thư mục extension (nút **Mở thư mục extension** mở sẵn thư mục đó). Chỉ làm một lần; sau này extension tự cập nhật cùng app.
+3. Mở PokerCraft từ app NATURAL8/GGPoker **trong Chrome**, rồi bấm **Đã mở PokerCraft — kiểm tra**.
+
+Lưu ý:
+- PokerCraft chỉ giữ **một phiên đăng nhập**: đăng nhập ở Chrome thì tab PokerCraft bên Safari bị đăng xuất, và ngược lại.
+- Một số mạng ở Việt Nam chặn PokerCraft trên Chrome (Safari vẫn vào được). Khi đó app báo "Chrome không mở được trang PokerCraft": hãy bật VPN (ví dụ Cloudflare WARP) hoặc dùng Safari.
+
 ## Cập nhật
 
 Trong app: **Cài đặt → Kiểm tra cập nhật → Cài và khởi động lại**. App chỉ kết nối GitHub khi bạn bấm nút này. Dữ liệu của bạn được giữ nguyên.
