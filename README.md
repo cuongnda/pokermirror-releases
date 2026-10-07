@@ -11,7 +11,17 @@ Vào **[Releases → bản mới nhất](https://github.com/cuongnda/pokermirror
 - Cần macOS 13 trở lên. Chạy được trên Mac chip Apple (M1/M2/M3…) và Mac Intel.
 - Không cần cài thêm gì (Python đã nằm sẵn trong app).
 
-## Cài lần đầu
+## Cài trên Windows (thử nghiệm)
+
+Cần Windows 10/11 bản 64-bit và **Google Chrome**.
+
+1. Tải file `PokerMirror-<số bản>-setup.exe` ở trang Releases rồi chạy. Nếu Windows hiện "Windows protected your PC", bấm **More info → Run anyway** (app chưa có chữ ký Windows). App cài cho tài khoản Windows của bạn, không cần quyền admin.
+2. Mở PokerMirror → **Thu thập**: làm theo khung **Chuẩn bị Chrome** để cài extension PokerMirror Connector (`chrome://extensions` → bật **Developer mode** → **Load unpacked** → chọn thư mục mà nút **Mở thư mục extension** mở ra). Chỉ làm một lần; extension tự cập nhật cùng app.
+3. Mở PokerCraft từ app NATURAL8/GGPoker **trong Chrome**, rồi bấm **Đã mở PokerCraft — kiểm tra**.
+
+Dữ liệu nằm trong `%LOCALAPPDATA%\com.cuong.pokermirror`. Gỡ app trong **Settings → Apps → PokerMirror**.
+
+## Cài lần đầu (Mac)
 
 1. Giải nén file zip, kéo **PokerMirror** vào thư mục **Applications**.
 2. Mở app. macOS sẽ báo không mở được vì chưa xác minh nhà phát triển → bấm **Done/Xong**.
